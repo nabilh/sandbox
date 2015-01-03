@@ -1,6 +1,0 @@
-line 1
-   line 1.1 this line is added - line 2 below it is deleted.
-line 3
-line 4 - this line has been changed
-line 5
-line 6 - this line is added
